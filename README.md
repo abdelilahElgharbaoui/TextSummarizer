@@ -1,6 +1,6 @@
 # End to End TextSummarizer
 
-## Workflos
+## Workflows
 
 1. Update config.yaml
 2. Update params.yaml
